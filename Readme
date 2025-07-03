@@ -1,0 +1,27 @@
+# 🧮 Scientific Calculator (JavaFX)
+
+A beautiful, multi-functional scientific calculator built using **JavaFX**. Includes memory functions, history, unit/equation conversion, and customizable UI themes.
+
+## 🚀 Features
+
+- ✅ Basic and advanced calculations
+- 🧠 Memory save, recall, and clear
+- 🧾 Calculation history
+- 🌗 Theme switcher (Dark/Light)
+- 🎨 Custom wallpaper support
+- 🔄 Unit & equation converters
+
+
+## 🛠 Technologies Used
+
+- Java 17+
+- JavaFX
+- FXML
+- Scene Builder
+- MySQL 
+
+## 📷 Screenshots
+
+*(Insert screenshots of your app here)*
+
+
